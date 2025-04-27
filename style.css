@@ -5,7 +5,8 @@ body {
   flex-direction: column;
   font-family: sans-serif;
 }
-h1 {
+h1,
+h2 {
   color: coral;
 }
 .grid-container {
